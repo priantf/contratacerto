@@ -1,2 +1,2 @@
 # Contrata Certo
-Sistema especialista em Experta que define se a contratação de determinado jogador é válida ou não
+Specialist system developed using Experta that defines if a soccer player's hiring is worth or not
